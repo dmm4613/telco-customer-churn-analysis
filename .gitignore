@@ -1,0 +1,47 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore raw datasets (avoid pushing large files)
+data/*.csv
+data/*.xlsx
+data/*.json
+data/*.parquet
+data/*.zip
+
+# Ignore SQL Server backup and log files
+*.bak
+*.mdf
+*.ldf
+*.ndf
+*.trc
+*.trm
+*.log
+
+# Ignore Power BI files (they can be large)
+power_bi/*.pbix
+power_bi/*.pbit
+
+# Ignore Jupyter Notebook checkpoints (if using notebooks)
+notebooks/.ipynb_checkpoints/
+
+# Ignore virtual environments (if using Python)
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignore Git LFS metadata (if using Git Large File Storage)
+.gitattributes
+.git/lfs/
