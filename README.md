@@ -9,7 +9,7 @@ This project analyzes *Telco Customer Churn & Sales Performance Analysis** using
 - **GitHub** – Version control & project documentation
 
 ## 📂 Project Structure
-📂 B2B_Customer_Churn_Analysis/ │── 📁 data/ # Raw & processed datasets │── 📁 sql_queries/ # SQL scripts for analysis │── 📁 power_bi/ # Power BI dashboards & reports │── 📁 notebooks/ # (Optional) Jupyter notebooks │── 📁 docs/ # Documentation & visuals │── 📄 README.md # Project overview & insights │── 📄 .gitignore # Files to exclude from Git
+📂 telco-customer-churn-analysis/ │── 📁 data/ # Raw & processed datasets │── 📁 sql_queries/ # SQL scripts for analysis │── 📁 power_bi/ # Power BI dashboards & reports │── 📁 notebooks/ # (Optional) Jupyter notebooks │── 📁 docs/ # Documentation & visuals │── 📄 README.md # Project overview & insights │── 📄 .gitignore # Files to exclude from Git
 
 ## 🎯 Business Questions
 This analysis focuses on:
@@ -35,5 +35,5 @@ This analysis focuses on:
 ## 📝 How to Run
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/B2B_Customer_Churn_Analysis.git
-   cd B2B_Customer_Churn_Analysis
+   git clone https://github.com/dmm4613/telco-customer-churn-analysis.git
+   cd telco-customer-churn-analysis
