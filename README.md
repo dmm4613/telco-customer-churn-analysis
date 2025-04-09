@@ -30,7 +30,7 @@ This analysis focuses on:
 ✅ **[Placeholder]** Customer engagement frequency impacts churn probability.  
 
 ## 📸 Power BI Dashboard
-📌 [full report](power_bi/full report.pdf)
+📌 ![power bi full report](https://github.com/user-attachments/assets/4025b77e-2954-4251-90b0-0bb2c228bafa)
 
 ## 📝 How to Run
 1. **Clone the repository**  
